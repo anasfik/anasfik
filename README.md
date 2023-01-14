@@ -23,8 +23,8 @@ I have 1+ years of experience in the field and a strong track record of deliveri
       - Getx
       - Provider ( with ChangeNotifiers )
  - ✨ Payments:
-       - Stripe
-       - Google, Apple Pay
+      - Stripe
+      - Google, Apple Pay
  - ✨ Animations:
       - Flutter's prebuilt animations components
       - Custom-built animations
