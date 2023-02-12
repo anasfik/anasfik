@@ -29,7 +29,7 @@ I do have the interest for turning your idea to a real project already!
 - Javascript.
  - Node.js & Express.js.
  - MangoDB.
-
+ - Puppeteer
 
 <br>
 
