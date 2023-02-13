@@ -1,6 +1,7 @@
 # Mohamed Anas FIKHI.
 
-I do have the interest for turning your idea to a real project already!
+I do have the interest in creating!
+
 
 <br>
 
@@ -63,4 +64,9 @@ I do have the interest for turning your idea to a real project already!
  - [StackOverflow](https://stackoverflow.com/users/18670641/gwhyyy)
  - [ffikhi.aanas@gmail.com](mailto:ffikhi.aanas@gmail.com)
  - VScode ( I don't know how ).
+
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=anasfik&style=flat-square)
 
