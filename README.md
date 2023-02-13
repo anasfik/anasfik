@@ -68,5 +68,3 @@ I do have the interest in creating!
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=anasfik&style=flat-square)
-
