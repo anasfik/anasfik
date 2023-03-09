@@ -62,7 +62,7 @@ I do have the interest in creating!
 ## Find me on:
  - [LinkedIn](https://www.linkedin.com/in/mohamed-anas-fikhi-36129822a/)
  - [StackOverflow](https://stackoverflow.com/users/18670641/gwhyyy)
- - [ffikhi.aanas@gmail.com](mailto:ffikhi.aanas@gmail.com)
+ - [work@gwhyyy.com](mailto:work@gwhyyy.com)
  - VScode ( I don't know how ).
 
 
