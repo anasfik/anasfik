@@ -1,5 +1,5 @@
 
-## Not your average developer for your applications ideas!
+## Not Your Average Developer For Your Next Application Idea!
 
 #### Find me on:
  - [LinkedIn](https://www.linkedin.com/in/mohamed-anas-fikhi-36129822a/)
