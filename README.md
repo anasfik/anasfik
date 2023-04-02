@@ -3,7 +3,6 @@
 
 #### For work offers, please reach me at this email:
 - [work@gwhyyy.com](mailto:work@gwhyyy.com)
-- 
 
 #### You can find me also on:
 - [LinkedIn](https://www.linkedin.com/in/mohamed-anas-fikhi-36129822a/)
