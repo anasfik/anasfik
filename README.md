@@ -9,4 +9,4 @@
 - [StackOverflow](https://stackoverflow.com/users/18670641/gwhyyy)
 - [ffikhi.aanas@gmail.com](mailto:ffikhi.aanas@gmail.com)
 
-#### You can always get/return here quickly, by entering https://gwhyyy.com
+#### You can always get/return to here quickly, by entering going to [gwhyyy.com](http://gwhyyy.com)
