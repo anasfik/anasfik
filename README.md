@@ -1,3 +1,5 @@
+Trying to be better than yesterday, I mean than the previous hour!
 
-We can discuss bringing your idea to life starting with an email to:
-- [work@gwhyyy.com](mailto:work@gwhyyy.com)
+<br>
+
+reach me at [work@gwhyyy.com](mailto:work@gwhyyy.com)
