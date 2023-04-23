@@ -32,7 +32,7 @@ This package is a client for the [Nostr](https://nostr.com) protocol. It is a wr
 ## More about me
 I'am a 20 yo Developer who is enthousiastic with the Flutter/Dart, which I use to build high-quality mobile/desktop applications that meet my clients expectations, I find myself a very flexible developer who can adapt and be a good fit for your next idea, I have more than 1+ year of experience in Flutter developemnt field. Aside of this, javascript was my first favorite thing to work with, I flexible with it when working in the server-side, precisely with Node.js & Express.js.
 
-## What can I work with
+## Skills
 
 #### Flutter Development
 <p align ="left">
@@ -75,8 +75,10 @@ I'am a 20 yo Developer who is enthousiastic with the Flutter/Dart, which I use t
 <img src="https://avatars.githubusercontent.com/u/44036562?s=60&v=4" alt="Github Actions" width="45"/>
   
 </p>
+
 ## Where to contact me.
-please, feel free to reach me out at:
+
+please, feel free to reach me at my work email:
  - [work@gwhyyy.com](mailto:work@gwhyyy.com)
 
 <br>
