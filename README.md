@@ -49,8 +49,6 @@ I'am a 20 yo Developer who is enthousiastic with the Flutter/Dart, which I use t
 <img src="https://images.ctfassets.net/fzn2n1nzq965/HTTOloNPhisV9P4hlMPNA/cacf1bb88b9fc492dfad34378d844280/Stripe_icon_-_square.svg?q=80&w=1082" alt="Stripe" width="45"/>
 <img src="https://seeklogo.com/images/O/onesignal-logo-9BFF1AC984-seeklogo.com.png" alt="OneSignal" width="45"/>
 <img src="https://cdn-icons-png.flaticon.com/512/888/888871.png?w=740&t=st=1682277373~exp=1682277973~hmac=ed34ce847d5e926694a2ecd57005e1d75080b5c59cbef8807fea9b30d5b3d8a4" alt="Paypal" width="45"/>
-<img src="https://images.ctfassets.net/fzn2n1nzq965/HTTOloNPhisV9P4hlMPNA/cacf1bb88b9fc492dfad34378d844280/Stripe_icon_-_square.svg?q=80&w=1082" alt="Stripe" width="45"/>
-<img src="https://images.ctfassets.net/fzn2n1nzq965/HTTOloNPhisV9P4hlMPNA/cacf1bb88b9fc492dfad34378d844280/Stripe_icon_-_square.svg?q=80&w=1082" alt="Stripe" width="45"/>
 
 </p>
 
