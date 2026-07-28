@@ -1,1 +1,1 @@
-I can bring your idea to life.
+Contact or work with me: https://gwhyyy.com/
