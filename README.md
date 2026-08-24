@@ -30,7 +30,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anasfik&repo=nostr&theme=default" />
   </a>
   <a href="https://github.com/anasfik/FlutterGuard">
-    <img src="https://github-recame-stats.vercel.app/api/pin/?username=anasfik&repo=FlutterGuard&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anasfik&repo=FlutterGuard&theme=default" />
   </a>
 </p>
 
